@@ -10,6 +10,16 @@
 
 <br/><br/>
 
+<h2>0. 강의 소개<h2/>
+    <a href="https://stbhg5.tistory.com/1092">코틀린에 관한 34가지 TMI (feat. Java와의 비교)</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
