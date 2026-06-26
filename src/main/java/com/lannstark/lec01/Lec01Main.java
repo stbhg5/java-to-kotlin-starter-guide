@@ -11,6 +11,13 @@ public class Lec01Main {
 
         Long number3 = 1_000L; // (3)
         Person person = new Person("송진성"); // (4)
+
+        // 정확히는 ArrayList 일 때 추가 가능
+        // final 붙여도 컬렉션에 원소 추가 가능!
+        // Arrays.asList 에 원소 추가시 UnsupportedOperationException 발생
+        final List<Integer> numbers = Arrays.asList(1, 2);
+        // numbers.add(3);
+        System.out.println(numbers);
     }
 
 }
