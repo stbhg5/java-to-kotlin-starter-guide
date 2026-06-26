@@ -14,8 +14,8 @@
     <a href="https://stbhg5.tistory.com/1092">코틀린에 관한 34가지 TMI (feat. Java와의 비교)</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>1. 코틀린에서 변수와 타입, 연산자를 다루는 방법<h2/>
+    <a href="https://stbhg5.tistory.com/1097">코틀린에서 변수를 다루는 방법</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
