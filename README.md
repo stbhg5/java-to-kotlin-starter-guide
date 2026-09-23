@@ -18,6 +18,12 @@
     <a href="https://stbhg5.tistory.com/1097">코틀린에서 변수를 다루는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1222">코틀린에서 null을 다루는방법</a><br/>
     <a href="https://stbhg5.tistory.com/1223">코틀린에서 Type을 다루는방법</a><br/>
+    <a href="https://stbhg5.tistory.com/1224">코틀린에서 연산자를 다루는 방법</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
