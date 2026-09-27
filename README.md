@@ -21,8 +21,8 @@
     <a href="https://stbhg5.tistory.com/1224">코틀린에서 연산자를 다루는 방법</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>2. 코틀린에서 코드를 제어하는 방법<h2/>
+    <a href="https://stbhg5.tistory.com/1225">코틀린에서 조건문을 다루는 방법</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
