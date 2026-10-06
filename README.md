@@ -24,6 +24,7 @@
 <h2>2. 코틀린에서 코드를 제어하는 방법<h2/>
     <a href="https://stbhg5.tistory.com/1225">코틀린에서 조건문을 다루는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1226">코틀린에서 반복문을 다루는 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/1227">코틀린에서 예외를 다루는 방법</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
