@@ -41,7 +41,7 @@ class Person(
         return this.name.uppercase()
     }
     */
-    fun getUppercaseName(): String = this.name.uppercase()
+    // fun getUppercaseName(): String = this.name.uppercase()
 
     val uppercaseName: String
         get() = this.name.uppercase()
@@ -69,9 +69,11 @@ class Person(
     }
 
     // 성인인지 확인하는 기능 추가
+    /*
     fun isAdult(): Boolean {
         return this.age >= 20
     }
+    */
 
     // 함수 대신 프로퍼티로도 만들 수 있다.
     val isAdult: Boolean
