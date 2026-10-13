@@ -30,7 +30,7 @@
 
 <h2>3. 코틀린에서의 OOP<h2/>
     <a href="https://stbhg5.tistory.com/1233">코틀린에서 클래스를 다루는 방법</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1234">코틀린에서 상속을 다루는 방법</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
