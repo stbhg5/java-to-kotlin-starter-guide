@@ -34,6 +34,12 @@
     <a href="https://stbhg5.tistory.com/1235">코틀린에서 접근 제어를 다루는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1236">코틀린에서 object 키워드를 다루는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1237">코틀린에서 중첩 클래스를 다루는 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/1238">코틀린에서 다양한 클래스를 다루는 방법</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
