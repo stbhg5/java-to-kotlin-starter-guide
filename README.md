@@ -37,8 +37,8 @@
     <a href="https://stbhg5.tistory.com/1238">코틀린에서 다양한 클래스를 다루는 방법</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4. 코틀린에서의 FP<h2/>
+    <a href="https://stbhg5.tistory.com/1241">코틀린에서 배열과 컬렉션을 다루는 방법</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
