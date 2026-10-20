@@ -39,7 +39,7 @@
 
 <h2>4. 코틀린에서의 FP<h2/>
     <a href="https://stbhg5.tistory.com/1241">코틀린에서 배열과 컬렉션을 다루는 방법</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1243">코틀린에서 다양한 함수를 다루는 방법</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
