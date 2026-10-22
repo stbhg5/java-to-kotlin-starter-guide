@@ -41,7 +41,7 @@
     <a href="https://stbhg5.tistory.com/1241">코틀린에서 배열과 컬렉션을 다루는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1243">코틀린에서 다양한 함수를 다루는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1245">코틀린에서 람다를 다루는 방법</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1246">코틀린에서 컬렉션을 함수형으로 다루는 방법</a><br/>
     <br/><br/>
 
 <h2><h2/>
