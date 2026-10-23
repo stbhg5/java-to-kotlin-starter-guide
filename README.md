@@ -44,8 +44,8 @@
     <a href="https://stbhg5.tistory.com/1246">코틀린에서 컬렉션을 함수형으로 다루는 방법</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>5. 추가적으로 알아두어야 할 코틀린 특성<h2/>
+    <a href="https://stbhg5.tistory.com/1248">코틀린의 이모저모</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
