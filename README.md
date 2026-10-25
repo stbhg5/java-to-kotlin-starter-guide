@@ -46,6 +46,5 @@
 
 <h2>5. 추가적으로 알아두어야 할 코틀린 특성<h2/>
     <a href="https://stbhg5.tistory.com/1248">코틀린의 이모저모</a><br/>
-    <a href=""></a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1250">코틀린의 scope function</a><br/>
     <br/><br/>
